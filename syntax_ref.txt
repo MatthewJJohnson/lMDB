@@ -11,6 +11,7 @@ https://stackoverflow.com/questions/44103187/axios-put-request-to-server
 https://stackoverflow.com/questions/7790811/how-do-i-put-variables-inside-javascript-strings
 https://stackoverflow.com/questions/43366026/react-inline-style-style-prop-expects-a-mapping-from-style-properties-to-value
 https://stackoverflow.com/questions/59716567/how-to-insert-a-new-row-in-react-tabulator
+http://sudiptachaudhari.com/react-tabulator/ (react options, code looked more like this before a manual tabulator redesign)
 
 PYTHON:
 https://stackoverflow.com/questions/51381312/row-to-json-and-psycopg2-fetchall-results-are-lists-within-a-list-instead-of-d/51382929
