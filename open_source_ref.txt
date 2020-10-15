@@ -3,7 +3,3 @@ OPEN SOURCE EXCERPTS
 HTML:
 Index (Landing Page): https://www.w3schools.com/w3css/tryit.asp?filename=tryw3css_templates_coming_soon&stacked=h 
 	Note: This is a siginficant time save I thought valuable, no wheels need be reinvented.
-
-REACT:
-http://sudiptachaudhari.com/react-tabulator/ 
-	Note: for options syntax
