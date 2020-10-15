@@ -9,7 +9,7 @@ BREAKDOWN OF BACKEND:
  
 BREAKDOWN OF SQL:
  connected to a local instance of psql on windows
- database may be rebuilt from dump, DDL supplied
+ database may be rebuilt from dump, DDL and data supplied here https://drive.google.com/file/d/17QOd_MRa7wJuF3ihco72ToY35xbuDC_q/view?usp=sharing
 
 BREAKDOWN OF _ref FILES:
  framework_ref (links to pages that I used fairly extensively to start the project or learn components I had no experience with)
