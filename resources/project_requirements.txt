@@ -1,0 +1,15 @@
+//Matt J Reference File
+Goal: Build a web app that allows users to list, search, add, edit and delete movies.
+
+Requirements:
+<> = completed
+<>list,
+<>search, [Completed with pagination and input sorters :) ] //Im sure balto wanted a db method but it sounds like I have a bit of freedom, plus idk how much more a simple 'where' clause demonstrates sql proficiency
+<>add,
+<>edit
+<>delete movies
+<>The movies should be stored in a database (postgres, mysql, sqlite) and should contain the csv data https://drive.google.com/file/d/17wclXVxQ1diTmtCQJOMaaPaeURtvZB6q/view?usp=sharing.
+<>The architecture should have a process for ingesting that csv into the database.
+<>Make use of a Python framework (like Flask, Tornado or Django).
+<>Create a React frontend for your users to allow them to perform operations on the database more easily.
+
