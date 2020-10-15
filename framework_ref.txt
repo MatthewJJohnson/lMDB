@@ -1,0 +1,14 @@
+PAGES VIEWED FOR SIGNIFICANT FRAMEWORK/LANGUAGE ASSISTANCE
+
+REACT:
+https://developer.okta.com/blog/2018/12/20/crud-app-with-python-flask-react
+	Note: I do not have extensive react experience and have never initialized react on windows. This was critical for setup.
+https://openbase.io/js/react-tabulator/documentation
+http://tabulator.info/docs/4.1/frameworks#react
+https://react-papaparse.js.org/
+	Note: Wow, that is one of the most plug and play modules I ahve ever seen, +1 react brownie points
+PYTHON:
+https://developer.okta.com/blog/2018/12/20/crud-app-with-python-flask-react
+	Note: My largest flask project was not modular, containing all routes, database methods, and utilities in a single 'app.py'. I very much did not want to do that for this, so I used the same tutorial above to help me make a modular flask project instead of a heap of a py.
+	
+	
